@@ -1,0 +1,5 @@
+.idea
+venv/
+templates-for-Django-4-course-Home-main/
+db.sqlite3
+media/
